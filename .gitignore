@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.db
+.venv/
+
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite*
+*.log
